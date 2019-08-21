@@ -1,0 +1,16 @@
+{
+  "name" : "kbide-plugin-ina226",
+  "title": "ina226",
+  "keywords": "ina226, esp32, esp8266, arduino",
+  "description": "Plugin ina226 for KB-IDE",
+  "git": "https://github.com/cmmc-kbide/kbide-plugin-ina226/",
+  "author": "cmmakerclub",
+  "email": "",
+  "url": "https://github.com/cmmc-kbide/kbide-plugin-ina226/",
+  "version": "1.0.0",
+  "board" : "",
+  "platform": ["arduino-esp32"],
+  "license": "",
+  "image" : "/static/display.png",
+  "homepage": "http://www.kbide.org"
+}
